@@ -1,5 +1,5 @@
 a=input()
 if(a.isalpha()==True):
-	print("yes")
+	print("Alphabet")
 else:
 	print("No")
